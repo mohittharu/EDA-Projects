@@ -3,10 +3,15 @@
 
 This repository contains a collection of Exploratory Data Analysis (EDA) projects focused on extracting insights, visualizing patterns, and understanding real-world datasets using Python.
 
-📁 Projects Overview
-Day	Project Title	Description	Dataset Source
-1	Project 01: FIFA Player Rating Analysis	Analyzing FIFA player data to understand ratings, performance, and player similarity	FIFA Player Dataset (Kaggle)
-2	Project 02: Titanic Survival Analysis	Analyzing passenger data to identify survival patterns and influencing factors	Titanic Dataset (Kaggle)
+
+## 📁 Projects Overview
+
+| Day | Project Title | Description | Dataset Source |
+|----|---------------|-------------|----------------|
+| 1 | Project 01: FIFA Player Rating Analysis | Analyzing FIFA player data to understand ratings, performance, and player similarity | FIFA Player Dataset (Kaggle) |
+| 2 | Project 02: Titanic Survival Analysis | Analyzing passenger data to identify survival patterns and influencing factors | Titanic Dataset (Kaggle) |
+
+
 📂 Folder Structure
 
 The repository is structured as follows:
