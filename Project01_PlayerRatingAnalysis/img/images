@@ -1,0 +1,9 @@
+images/
+├── pca_2d.png
+├── linear_regression.png
+├── age_vs_overall.png
+├── top_clubs.png
+├── rating_distribution.png
+├── pca_3d.png
+├── kmeans_pca.png
+├── correlation_heatmap.png
