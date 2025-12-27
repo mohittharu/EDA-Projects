@@ -1,0 +1,13 @@
+# Large datasets
+ratings.csv
+Project01_PlayerRatingAnalysis/Data/ratings.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+
+# OS files
+.DS_Store
+Thumbs.db
