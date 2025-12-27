@@ -11,3 +11,7 @@ __pycache__/
 # OS files
 .DS_Store
 Thumbs.db
+echo Project01_PlayerRatingAnalysis/ratings.csv >> .gitignore
+git add .gitignore
+git commit -m "Ignore large dataset file"
+Project01_PlayerRatingAnalysis/ratings.csv
