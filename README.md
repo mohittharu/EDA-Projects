@@ -4,7 +4,7 @@
 This repository contains a collection of Exploratory Data Analysis (EDA) projects focused on extracting insights, visualizing patterns, and understanding real-world datasets using Python.
 
 
-## 📁 Projects Overview
+
 ## 📁 Projects Overview
 
 | Day | Project Title | Description | Dataset Source |
