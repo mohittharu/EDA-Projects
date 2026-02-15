@@ -68,4 +68,4 @@ Build a strong and structured data analytics portfolio
 👤 Author
 
 Mohit Tharu
-Data Analytics Enthusiast | Python | EDA | Machine Learning Basics
+Data Analytics Enthusiast | Python | EDA | Machine Learning Basics(daily grinding of data)
